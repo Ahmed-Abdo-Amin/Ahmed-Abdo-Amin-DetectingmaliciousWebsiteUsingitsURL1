@@ -67,4 +67,4 @@ The link: https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 <video src="./Recrord.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-![Kaggle](./Images_cs/Presentation-27.jpg)
+![Kaggle](./Images_cs/Deployment.gif)
