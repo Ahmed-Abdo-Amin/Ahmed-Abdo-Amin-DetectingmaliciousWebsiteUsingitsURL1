@@ -1,4 +1,5 @@
 # Detecting malicious Website Using its URL
+[![IMAGE ALT TEXT HERE](./Images_cs/Presentation-01.jpg)](https://youtu.be/GDgUDvhhMco)
 
 ## PROBLEM DEFINITION:
 
@@ -63,8 +64,6 @@ The link: https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
 ## Deployment and Demo as shown in the following video:
 
-</center>
-<video src="./Recrord.mp4" controls="controls" style="max-width: 730px;">
-</video>
+[![IMAGE ALT TEXT HERE](./Images_cs/Deployment.gif)](https://youtu.be/GVRPi78qCbI)
 
-![Kaggle](./Images_cs/Deployment.gif)
+![Conslusion](./Images_cs/Presentation-27.jpg)
